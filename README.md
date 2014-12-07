@@ -1,4 +1,2 @@
-my solutions to some data science/analysis classes on coursera
-https://www.coursera.org/course/datasci
-https://www.coursera.org/course/compdata
+my solutions to analysis class on coursera
 https://www.coursera.org/course/dataanalysis
